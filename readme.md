@@ -511,6 +511,7 @@ A curated list of AI image processing, generation, editing and enhancement tools
 - [Remusic](https://remusic.ai/en) - AI music generation and music learning platform, free to use online.
 
 ## Other
+- [Image Stretcher](https://imagestretcher.com/) - Image Stretcher delivers AI-powered resizing that extends backgrounds, preserves subjects, and gets creative assets ready for every channel.
 - [Book Title Generator](https://booktitlegenerators.com/) - Use AI to suggest more marketable titles for your fiction or non-fiction books.
 - [Taranify](https://www.taranify.com) - Use AI to find suitable Spotify playlists, Netflix shows, books and food for you.
 - [Diagram](https://diagram.com/) - Magical product design way.

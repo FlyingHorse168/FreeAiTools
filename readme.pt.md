@@ -511,6 +511,7 @@ Uma lista curada de ferramentas de processamento, geração, edição e aprimora
 - [Remusic](https://remusic.ai/en) - Plataforma de geração de música e aprendizado musical IA, gratuita para usar online.
 
 ## Outro
+- [Image Stretcher](https://imagestretcher.com/) - O Image Stretcher oferece redimensionamento com tecnologia de IA que estende planos de fundo, preserva assuntos e prepara ativos criativos para todos os canais.
 - [Book Title Generator](https://booktitlegenerators.com/) - Use IA para sugerir títulos mais comercializáveis para seus livros de ficção ou não-ficção.
 - [Taranify](https://www.taranify.com) - Use IA para encontrar playlists Spotify, programas Netflix, livros e comida adequados para você.
 - [Diagram](https://diagram.com/) - Forma mágica de design de produtos.

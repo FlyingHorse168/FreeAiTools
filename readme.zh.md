@@ -527,6 +527,7 @@
 - [Remusic](https://remusic.ai/en) - AI 音乐生成与音乐学习平台，免费在线使用。
 
 ## 其他
+- [Image Stretcher](https://imagestretcher.com/) - 提供由人工智能驱动的图像大小调整功能，可扩展背景、保留主题，并为每个渠道准备好创意资产。
 - [Book Title Generator](https://booktitlegenerators.com/) - 使用AI为你的小说类或虚构类图书举一个更容易市场传播的书名 。
 - [Taranify](https://www.taranify.com) - 使用 AI 为你找到合适的 Spotify 播放列表、Netflix 节目、图书与食物。
 - [Diagram](https://diagram.com/) - 魔法般的产品设计方式。
