@@ -5,7 +5,7 @@
 Bem-vindo ao Free AI Tools! Explore minha lista curada de IA cobrindo as melhores ferramentas de IA generativa e grandes modelos de linguagem. Se você quiser contribuir com conteúdo ou mostrar seu produto, fique à vontade para enviar um PR para este repositório—completamente grátis! Junte-se à minha lista de produtos de IA em constante expansão e mantenha-se na vanguarda da inovação.
 
 
-**Languages:** [English](readme.md) | [Español](readme.es.md) | [Português](readme.pt.md) | [中文](readme.zh.md)
+**Languages:** [English](index.md) | [Español](index.es.md) | [Português](index.pt.md) | [中文](index.zh.md)
 
 ![Free AI Tools](free-ai-tools.png)
 ## Índice

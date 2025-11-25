@@ -5,7 +5,7 @@
 欢迎来到 Free AI Tools！深入探索我整理的 AI 清单，涵盖顶尖的生成式 AI 工具和大语言模型。如果想贡献内容或展示你的产品，欢迎向此仓库发送 PR——完全免费！加入我不断扩充的 AI 产品清单，始终站在创新前沿。
 
 
-**Languages:** [English](readme.md) | [Español](readme.es.md) | [Português](readme.pt.md) | [中文](readme.zh.md)
+**Languages:** [English](index.md) | [Español](index.es.md) | [Português](index.pt.md) | [中文](index.zh.md)
 
 ![Free AI Tools](free-ai-tools.png)
 ## 目录
