@@ -527,6 +527,7 @@
 - [Remusic](https://remusic.ai/en) - AI 音乐生成与音乐学习平台，免费在线使用。
 
 ## 其他
+- [图片背景去除工具](https://easybgremover.com/)- 几秒钟内即可设计出透明背景。 Easy BG Remover 结合了 AI 剪切、调整大小控件和导出预设。
 - [图表制作工具](https://achartmaker.com/)- 图表制作工具可生成并支持饼图、流程图、柱状图、折线图、散点图、树状图、营养成分表及更多图表类型。
 - [Image Stretcher](https://imagestretcher.com/) - 提供由人工智能驱动的图像大小调整功能，可扩展背景、保留主题，并为每个渠道准备好创意资产。
 - [Book Title Generator](https://booktitlegenerators.com/) - 使用AI为你的小说类或虚构类图书举一个更容易市场传播的书名 。
