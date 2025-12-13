@@ -55,12 +55,12 @@ Bem-vindo ao Free AI Tools! Explore minha lista curada de IA cobrindo as melhore
 <a id="editors-choice"></a>
 ## Escolha do Editor
 
+- [Easy BG Remover](https://easybgremover.com/) - Crie fundos transparentes prontos para design em segundos. O Easy BG Remover combina recortes de IA, controlos de redimensionamento e predefinições de exportação.
+- [Ferramenta de Criação de Gráficos](https://achartmaker.com/) - Ferramenta de Criação de Gráficos gera e oferece suporte a gráficos de pizza, diagramas de fluxo, gráficos de barras, gráficos de linhas, gráficos de dispersão, gráficos em árvore, gráficos de nutrição e mais tipos de gráficos.
+- [Image Stretcher](https://imagestretcher.com/) - O Image Stretcher oferece redimensionamento com tecnologia de IA que estende planos de fundo, preserva assuntos e prepara ativos criativos para todos os canais.
+- [Book Title Generator](https://booktitlegenerators.com/) - Use IA para sugerir títulos mais comercializáveis para seus livros de ficção ou não-ficção.
 - [There's an AI](https://theresanai.com) - A melhor lista de ferramentas de IA.
 - [Notion AI](https://affiliate.notion.so/9po6cx7rvdr6-4y5a7) - Faça perguntas e encontre informações em segundos, obtenha ajuda para escrever e brainstorming dentro do Notion sem alternar abas do navegador.
-- [Murf AI](https://get.murf.ai/v8i9to5ad4oq) - Crie narrações usando as vozes de IA mais realistas.
-- [SaneBox](https://try.sanebox.com/yzkpe5s68xk2) - Um SaaS de gerenciamento de e-mail que se integra com caixas de correio IMAP e Exchange Web Services.
-- [MeetGeek](https://get.meetgeek.ai/zmrnb5xlyfs9) - Assistente de reunião de IA que grava automaticamente vídeo, transcreve, resume e extrai pontos-chave das reuniões.
-
 
 <a id="text"></a>
 ## Texto
@@ -511,10 +511,7 @@ Uma lista curada de ferramentas de processamento, geração, edição e aprimora
 - [Remusic](https://remusic.ai/en) - Plataforma de geração de música e aprendizado musical IA, gratuita para usar online.
 
 ## Outro
-- [Easy BG Remover](https://easybgremover.com/) - Crie fundos transparentes prontos para design em segundos. O Easy BG Remover combina recortes de IA, controlos de redimensionamento e predefinições de exportação.
-- [Ferramenta de Criação de Gráficos](https://achartmaker.com/) - Ferramenta de Criação de Gráficos gera e oferece suporte a gráficos de pizza, diagramas de fluxo, gráficos de barras, gráficos de linhas, gráficos de dispersão, gráficos em árvore, gráficos de nutrição e mais tipos de gráficos.
-- [Image Stretcher](https://imagestretcher.com/) - O Image Stretcher oferece redimensionamento com tecnologia de IA que estende planos de fundo, preserva assuntos e prepara ativos criativos para todos os canais.
-- [Book Title Generator](https://booktitlegenerators.com/) - Use IA para sugerir títulos mais comercializáveis para seus livros de ficção ou não-ficção.
+
 - [Taranify](https://www.taranify.com) - Use IA para encontrar playlists Spotify, programas Netflix, livros e comida adequados para você.
 - [Diagram](https://diagram.com/) - Forma mágica de design de produtos.
 - [PromptBase](https://promptbase.com/) - Marketplace para comprar e vender prompts de qualidade, suporta DALL·E, GPT-3, Midjourney, Stable Diffusion.

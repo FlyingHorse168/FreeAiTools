@@ -55,11 +55,12 @@ Welcome to Free AI Tools! Explore my curated AI list covering top generative AI 
 <a id="editors-choice"></a>
 ## Editor's Choice
 
+- [Easy BG Remover](https://easybgremover.com/)- Design-ready transparent backgrounds in seconds. Easy BG Remover combines AI cutouts, resize controls, and export presets 。
+- [Chart Maker](https://achartmaker.com/) - Chart Maker Generate,Support Pie Chart,Flow Chart,Bar Chart,Line Chart,scatter chart,tree chart,nutrition chart  &more.
+- [Image Stretcher](https://imagestretcher.com/) - Image Stretcher delivers AI-powered resizing that extends backgrounds, preserves subjects, and gets creative assets ready for every channel.
+- [Book Title Generator](https://booktitlegenerators.com/) - Use AI to suggest more marketable titles for your fiction or non-fiction books.
 - [There's an AI](https://theresanai.com) - The best AI tools list.
 - [Notion AI](https://affiliate.notion.so/9po6cx7rvdr6-4y5a7) - Ask questions and find information in seconds, get writing and brainstorming help within Notion without switching browser tabs.
-- [Murf AI](https://get.murf.ai/v8i9to5ad4oq) - Create voiceovers using the most realistic AI voices.
-- [SaneBox](https://try.sanebox.com/yzkpe5s68xk2) - An email management SaaS that integrates with IMAP and Exchange Web Services mailboxes.
-- [MeetGeek](https://get.meetgeek.ai/zmrnb5xlyfs9) - AI meeting assistant that automatically records video, transcribes, summarizes and extracts key points from meetings.
 
 
 <a id="text"></a>
@@ -511,10 +512,6 @@ A curated list of AI image processing, generation, editing and enhancement tools
 - [Remusic](https://remusic.ai/en) - AI music generation and music learning platform, free to use online.
 
 ## Other
-- [Easy BG Remover](https://easybgremover.com/)- Design-ready transparent backgrounds in seconds. Easy BG Remover combines AI cutouts, resize controls, and export presets 。
-- [Chart Maker](https://achartmaker.com/) - Chart Maker Generate,Support Pie Chart,Flow Chart,Bar Chart,Line Chart,scatter chart,tree chart,nutrition chart  &more.
-- [Image Stretcher](https://imagestretcher.com/) - Image Stretcher delivers AI-powered resizing that extends backgrounds, preserves subjects, and gets creative assets ready for every channel.
-- [Book Title Generator](https://booktitlegenerators.com/) - Use AI to suggest more marketable titles for your fiction or non-fiction books.
 - [Taranify](https://www.taranify.com) - Use AI to find suitable Spotify playlists, Netflix shows, books and food for you.
 - [Diagram](https://diagram.com/) - Magical product design way.
 - [PromptBase](https://promptbase.com/) - Marketplace for buying and selling quality prompts, supports DALL·E, GPT-3, Midjourney, Stable Diffusion.

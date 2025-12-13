@@ -55,11 +55,12 @@
 <a id="editors-choice"></a>
 ## 编辑精选
 
+- [图片背景去除工具](https://easybgremover.com/)- 几秒钟内即可设计出透明背景。 Easy BG Remover 结合了 AI 剪切、调整大小控件和导出预设。
+- [图表制作工具](https://achartmaker.com/)- 图表制作工具可生成并支持饼图、流程图、柱状图、折线图、散点图、树状图、营养成分表及更多图表类型。
+- [Image Stretcher](https://imagestretcher.com/) - 提供由人工智能驱动的图像大小调整功能，可扩展背景、保留主题，并为每个渠道准备好创意资产。
+- [Book Title Generator](https://booktitlegenerators.com/) - 使用AI为你的小说类或虚构类图书举一个更容易市场传播的书名 。
 - [There's an AI](https://theresanai.com) - 最佳 AI 工具清单。
 - [Notion AI](https://affiliate.notion.so/9po6cx7rvdr6-4y5a7) - 提出问题即可在数秒内找到所需信息，在 Notion 内获得写作和头脑风暴帮助，而无需切换浏览器标签页。
-- [Murf AI](https://get.murf.ai/v8i9to5ad4oq) - 使用最逼真的 AI 声音创建配音。
-- [SaneBox](https://try.sanebox.com/yzkpe5s68xk2) - 一款电子邮件管理 SaaS，可与 IMAP 与 Exchange Web Services 邮箱集成。
-- [MeetGeek](https://get.meetgeek.ai/zmrnb5xlyfs9) - AI 会议助理，可自动录制视频、转录、总结并提取会议关键点。
 
 
 <a id="text"></a>
@@ -527,10 +528,6 @@
 - [Remusic](https://remusic.ai/en) - AI 音乐生成与音乐学习平台，免费在线使用。
 
 ## 其他
-- [图片背景去除工具](https://easybgremover.com/)- 几秒钟内即可设计出透明背景。 Easy BG Remover 结合了 AI 剪切、调整大小控件和导出预设。
-- [图表制作工具](https://achartmaker.com/)- 图表制作工具可生成并支持饼图、流程图、柱状图、折线图、散点图、树状图、营养成分表及更多图表类型。
-- [Image Stretcher](https://imagestretcher.com/) - 提供由人工智能驱动的图像大小调整功能，可扩展背景、保留主题，并为每个渠道准备好创意资产。
-- [Book Title Generator](https://booktitlegenerators.com/) - 使用AI为你的小说类或虚构类图书举一个更容易市场传播的书名 。
 - [Taranify](https://www.taranify.com) - 使用 AI 为你找到合适的 Spotify 播放列表、Netflix 节目、图书与食物。
 - [Diagram](https://diagram.com/) - 魔法般的产品设计方式。
 - [PromptBase](https://promptbase.com/) - 购买与出售优质提示词的市场，支持 DALL·E、GPT-3、Midjourney、Stable Diffusion。
