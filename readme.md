@@ -59,6 +59,10 @@ Welcome to Free AI Tools! Explore my curated AI list covering top generative AI 
 - [Chart Maker](https://achartmaker.com/) - Chart Maker Generate,Support Pie Chart,Flow Chart,Bar Chart,Line Chart,scatter chart,tree chart,nutrition chart  &more.
 - [Image Stretcher](https://imagestretcher.com/) - Image Stretcher delivers AI-powered resizing that extends backgrounds, preserves subjects, and gets creative assets ready for every channel.
 - [Book Title Generator](https://booktitlegenerators.com/) - Use AI to suggest more marketable titles for your fiction or non-fiction books.
+- [Book Title Generator](https://booktitlegenerators.com/) - Use AI to suggest more marketable titles for your fiction or non-fiction books.
+- [Free PC Games Online ](https://freepopular.games/) - Play 1122+ free games instantly! Action, puzzle, racing, shooting games and more. No downloads required - play popular PC games in your browser now.
+- [WebP to SVG](https://webptosvg.org/) - Free online WebP to SVG converter. Easily convert your WebP images to scalable vector graphics (SVG) with adjustable quality. Fast and simple tool.
+- [Image Toolbox - Free Online Image Resizer & Optimizer](https://imagetoolbox.top/) - Free image toolbox to resize, optimize photos for TikTok, YouTube, Facebook, Instagram. Fast, secure, no server upload required.
 - [There's an AI](https://theresanai.com) - The best AI tools list.
 - [Notion AI](https://affiliate.notion.so/9po6cx7rvdr6-4y5a7) - Ask questions and find information in seconds, get writing and brainstorming help within Notion without switching browser tabs.
 
