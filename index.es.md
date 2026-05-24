@@ -61,6 +61,9 @@
 - [Book Title Generator](https://booktitlegenerators.com/) - Usa IA para sugerir títulos más comercializables para tus libros de ficción o no ficción.
 - [There's an AI](https://theresanai.com) - La mejor lista de herramientas de IA.
 - [Notion AI](https://affiliate.notion.so/9po6cx7rvdr6-4y5a7) - Haz preguntas y encuentra información en segundos, obtén ayuda para escribir y hacer lluvia de ideas dentro de Notion sin cambiar pestañas del navegador.
+- [Eggy Car](https://eggycar.cc/) - Juega a Eggy Car Unblocked gratis online. Conduce con cuidado, mantén el equilibrio y transporta un huevo frágil por terrenos desafiantes sin romperlo.
+- [Skills2](https://skills2.net/) - El mejor directorio de habilidades de IA para descubrir y compartir habilidades y prompts impulsados por IA.
+- [Electron Dash](https://theelectrondash.com/) - Juega a Electron Dash gratis online. Un endless runner 3D de ritmo rápido ambientado en un túnel espacial brillante con obstáculos de neón y plataformas que se desploman.
 
 <a id="text"></a>
 ## Texto

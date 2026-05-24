@@ -64,6 +64,9 @@ Welcome to Free AI Tools! Explore my curated AI list covering top generative AI 
 - [Image Toolbox - Free Online Image Resizer & Optimizer](https://imagetoolbox.top/) - Free image toolbox to resize, optimize photos for TikTok, YouTube, Facebook, Instagram. Fast, secure, no server upload required.
 - [There's an AI](https://theresanai.com) - The best AI tools list.
 - [Notion AI](https://affiliate.notion.so/9po6cx7rvdr6-4y5a7) - Ask questions and find information in seconds, get writing and brainstorming help within Notion without switching browser tabs.
+- [Eggy Car](https://eggycar.cc/) - Play Eggy Car Unblocked for free online. Drive carefully, maintain balance, and transport a fragile egg across challenging terrain without breaking it.
+- [Skills2](https://skills2.net/) - The best AI Skills directory to discover and share AI-powered skills and prompts.
+- [Electron Dash](https://theelectrondash.com/) - Play Electron Dash for free online. A fast-paced 3D endless runner set inside a glowing space tunnel with neon-lit obstacles and collapsing platforms.
 
 
 <a id="text"></a>

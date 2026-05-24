@@ -61,6 +61,9 @@ Bem-vindo ao Free AI Tools! Explore minha lista curada de IA cobrindo as melhore
 - [Book Title Generator](https://booktitlegenerators.com/) - Use IA para sugerir títulos mais comercializáveis para seus livros de ficção ou não-ficção.
 - [There's an AI](https://theresanai.com) - A melhor lista de ferramentas de IA.
 - [Notion AI](https://affiliate.notion.so/9po6cx7rvdr6-4y5a7) - Faça perguntas e encontre informações em segundos, obtenha ajuda para escrever e brainstorming dentro do Notion sem alternar abas do navegador.
+- [Eggy Car](https://eggycar.cc/) - Jogue Eggy Car Unblocked grátis online. Conduza com cuidado, mantenha o equilíbrio e transporte um ovo frágil por terrenos desafiadores sem o quebrar.
+- [Skills2](https://skills2.net/) - O melhor diretório de Skills de IA para descobrir e partilhar habilidades e prompts alimentados por IA.
+- [Electron Dash](https://theelectrondash.com/) - Jogue Electron Dash grátis online. Um endless runner 3D de ritmo acelerado num túnel espacial brilhante com obstáculos de néon e plataformas em colapso.
 
 <a id="text"></a>
 ## Texto

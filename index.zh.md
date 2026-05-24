@@ -61,6 +61,9 @@
 - [Book Title Generator](https://booktitlegenerators.com/) - 使用AI为你的小说类或虚构类图书举一个更容易市场传播的书名 。
 - [There's an AI](https://theresanai.com) - 最佳 AI 工具清单。
 - [Notion AI](https://affiliate.notion.so/9po6cx7rvdr6-4y5a7) - 提出问题即可在数秒内找到所需信息，在 Notion 内获得写作和头脑风暴帮助，而无需切换浏览器标签页。
+- [Eggy Car](https://eggycar.cc/) - 免费在线玩 Eggy Car。小心驾驶，保持平衡，将脆弱的鸡蛋运过充满挑战的地形而不打碎它。
+- [Skills2](https://skills2.net/) - 最佳 AI 技能目录，发现和分享 AI 驱动的技能和提示词。
+- [Electron Dash](https://theelectrondash.com/) - 免费在线玩 Electron Dash。一款快节奏的 3D 无尽跑酷游戏，在发光的太空隧道中穿越霓虹障碍和崩塌平台。
 
 
 <a id="text"></a>
