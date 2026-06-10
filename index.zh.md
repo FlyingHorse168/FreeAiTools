@@ -64,6 +64,8 @@
 - [Eggy Car](https://eggycar.cc/) - 免费在线玩 Eggy Car。小心驾驶，保持平衡，将脆弱的鸡蛋运过充满挑战的地形而不打碎它。
 - [Skills2](https://skills2.net/) - 最佳 AI 技能目录，发现和分享 AI 驱动的技能和提示词。
 - [Electron Dash](https://theelectrondash.com/) - 免费在线玩 Electron Dash。一款快节奏的 3D 无尽跑酷游戏，在发光的太空隧道中穿越霓虹障碍和崩塌平台。
+- [Sinner Maker](https://sinnermaker.xyz/) - 免费在线玩 Sinner Maker。创造罪人，塑造他们的信仰，管理一个关系可能演变为虔诚、竞争或痴迷的村庄。
+- [PixGPT](https://pixgpt.io/) - AI 信息图生成器，一键将复杂信息转化为专业信息图，支持 21 种布局和 20 种风格。
 
 
 <a id="text"></a>

@@ -68,6 +68,8 @@ Welcome to Free AI Tools! Explore my curated AI list covering top generative AI 
 - [Eggy Car](https://eggycar.cc/) - Play Eggy Car Unblocked for free online. Drive carefully, maintain balance, and transport a fragile egg across challenging terrain without breaking it.
 - [Skills2](https://skills2.net/) - The best AI Skills directory to discover and share AI-powered skills and prompts.
 - [Electron Dash](https://theelectrondash.com/) - Play Electron Dash for free online. A fast-paced 3D endless runner set inside a glowing space tunnel with neon-lit obstacles and collapsing platforms.
+- [Sinner Maker](https://sinnermaker.xyz/) - Play Sinner Maker free online. Create sinners, shape their faith, and manage a village where relationships become devotion, rivalry, or obsession.
+- [PixGPT](https://pixgpt.io/) - AI Infographic Generator that transforms complex information into professional infographics with 21 layouts and 20 styles in one click.
 
 
 <a id="text"></a>

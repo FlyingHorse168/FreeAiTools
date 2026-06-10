@@ -64,6 +64,8 @@ Bem-vindo ao Free AI Tools! Explore minha lista curada de IA cobrindo as melhore
 - [Eggy Car](https://eggycar.cc/) - Jogue Eggy Car Unblocked grátis online. Conduza com cuidado, mantenha o equilíbrio e transporte um ovo frágil por terrenos desafiadores sem o quebrar.
 - [Skills2](https://skills2.net/) - O melhor diretório de Skills de IA para descobrir e partilhar habilidades e prompts alimentados por IA.
 - [Electron Dash](https://theelectrondash.com/) - Jogue Electron Dash grátis online. Um endless runner 3D de ritmo acelerado num túnel espacial brilhante com obstáculos de néon e plataformas em colapso.
+- [Sinner Maker](https://sinnermaker.xyz/) - Jogue Sinner Maker grátis online. Crie pecadores, molde sua fé e gerencie uma vila onde relacionamentos podem se tornar devoção, rivalidade ou obsessão.
+- [PixGPT](https://pixgpt.io/) - Gerador de infográficos com IA que transforma informações complexas em infográficos profissionais com 21 layouts e 20 estilos em um clique.
 
 <a id="text"></a>
 ## Texto

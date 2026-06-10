@@ -64,6 +64,8 @@
 - [Eggy Car](https://eggycar.cc/) - Juega a Eggy Car Unblocked gratis online. Conduce con cuidado, mantén el equilibrio y transporta un huevo frágil por terrenos desafiantes sin romperlo.
 - [Skills2](https://skills2.net/) - El mejor directorio de habilidades de IA para descubrir y compartir habilidades y prompts impulsados por IA.
 - [Electron Dash](https://theelectrondash.com/) - Juega a Electron Dash gratis online. Un endless runner 3D de ritmo rápido ambientado en un túnel espacial brillante con obstáculos de neón y plataformas que se desploman.
+- [Sinner Maker](https://sinnermaker.xyz/) - Juega a Sinner Maker gratis online. Crea pecadores, moldea su fe y gestiona una aldea donde las relaciones pueden volverse devoción, rivalidad u obsesión.
+- [PixGPT](https://pixgpt.io/) - Generador de infografías con IA que transforma información compleja en infografías profesionales con 21 diseños y 20 estilos en un clic.
 
 <a id="text"></a>
 ## Texto
