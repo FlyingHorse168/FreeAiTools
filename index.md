@@ -242,6 +242,7 @@ Welcome to Free AI Tools! Explore my curated AI list covering top generative AI 
 - [Sourcely](https://www.sourcely.net/) - AI academic citation search tool.
 - [SciSpace](https://scispace.com/) - AI conversation tool for scientific PDFs.
 - [NotebookLM](https://notebooklm.google.com/) - AI chat for your own documents, links and text resources.
+- [FigPad](https://figpad.ai/) - AI workspace for creating scientific figures from prompts, sketches, or reference images, with editable SVG/PPTX export for papers and slides.
 - [Mathos AI](https://www.mathgptpro.com/) - Efficient AI math solver, calculator and tutor.
 
 ### Customer Support
