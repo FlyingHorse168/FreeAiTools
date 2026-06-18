@@ -240,6 +240,7 @@ Welcome to Free AI Tools! Explore my curated AI list covering top generative AI 
 - [Galactica](https://galactica.org/) - Large language model for science that can summarize academic literature, solve math problems, generate Wiki entries, write scientific code, annotate molecules and proteins, etc. [Model API](https://github.com/paperswithcode/galai).
 - [Consensus](https://consensus.app/search/) - Search engine that uses AI to find answers from scientific research.
 - [Sourcely](https://www.sourcely.net/) - AI academic citation search tool.
+- [Citely](https://citely.ai/) - AI citation checker and academic source finder for verifying references and claims.
 - [SciSpace](https://scispace.com/) - AI conversation tool for scientific PDFs.
 - [NotebookLM](https://notebooklm.google.com/) - AI chat for your own documents, links and text resources.
 - [Mathos AI](https://www.mathgptpro.com/) - Efficient AI math solver, calculator and tutor.
