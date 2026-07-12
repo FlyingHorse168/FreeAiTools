@@ -57,6 +57,7 @@ Bem-vindo ao Free AI Tools! Explore minha lista curada de IA cobrindo as melhore
 
 - [Easy BG Remover](https://easybgremover.com/) - Crie fundos transparentes prontos para design em segundos. O Easy BG Remover combina recortes de IA, controlos de redimensionamento e predefinições de exportação.
 - [Ferramenta de Criação de Gráficos](https://achartmaker.com/) - Ferramenta de Criação de Gráficos gera e oferece suporte a gráficos de pizza, diagramas de fluxo, gráficos de barras, gráficos de linhas, gráficos de dispersão, gráficos em árvore, gráficos de nutrição e mais tipos de gráficos.
+- [Dino Kid](https://dinokid.wiki/) - Guias do jogo Dino Kid, códigos, listas de tier e recursos wiki.
 - [Image Stretcher](https://imagestretcher.com/) - O Image Stretcher oferece redimensionamento com tecnologia de IA que estende planos de fundo, preserva assuntos e prepara ativos criativos para todos os canais.
 - [Book Title Generator](https://booktitlegenerators.com/) - Use IA para sugerir títulos mais comercializáveis para seus livros de ficção ou não-ficção.
 - [There's an AI](https://theresanai.com) - A melhor lista de ferramentas de IA.
