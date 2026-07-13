@@ -58,6 +58,7 @@ Welcome to Free AI Tools! Explore my curated AI list covering top generative AI 
 - [Easy BG Remover](https://easybgremover.com/)- Design-ready transparent backgrounds in seconds. Easy BG Remover combines AI cutouts, resize controls, and export presets 。
 - [Chart Maker](https://achartmaker.com/) - Chart Maker Generate,Support Pie Chart,Flow Chart,Bar Chart,Line Chart,scatter chart,tree chart,nutrition chart  &more.
 - [Dino Kid](https://dinokid.wiki/) - Dino Kid game guides, codes, tier lists and wiki resources.
+- [My Dino Park](https://mydinopark.org/) - My Dino Park game guides, tips and resources.
 - [Image Stretcher](https://imagestretcher.com/) - Image Stretcher delivers AI-powered resizing that extends backgrounds, preserves subjects, and gets creative assets ready for every channel.
 - [Book Title Generator](https://booktitlegenerators.com/) - Use AI to suggest more marketable titles for your fiction or non-fiction books.
 - [Book Title Generator](https://booktitlegenerators.com/) - Use AI to suggest more marketable titles for your fiction or non-fiction books.
