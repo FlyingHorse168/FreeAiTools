@@ -184,6 +184,7 @@ Welcome to Free AI Tools! Explore my curated AI list covering top generative AI 
 - [Elephas](https://elephas.app/?ref=mahseema-awesome-ai-tools) - Personal AI writing assistant for Mac.
 - [Lemmy](https://lemmy.co/?ref=mahseema-awesome-ai-tools) - Autonomous work AI assistant.
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=mahseema-awesome-ai-tools) - Say goodbye to troublesome Google Sheets formulas.
+- [GPT for Sheets](https://docgpt.ai/gpt-for-sheets) - AI assistant for Google Sheets to generate formulas, enrich rows, classify data, translate text, and automate spreadsheet workflows.
 - [CreateEasily](https://createeasily.com/?ref=mahseema-awesome-ai-tools) - Free speech-to-text tool for content creators, accurately transcribes audio/video files up to 2GB.
 - [Cosmos](https://meetcosmos.com/) - Use AI offline locally, search media files by content, find similar images or video clips using reference images, and transcribe videos.
 - [aiPDF](https://aipdf.ai) - Advanced AI document assistant.
