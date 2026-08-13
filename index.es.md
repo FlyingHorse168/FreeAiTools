@@ -57,6 +57,7 @@
 
 - [Easy BG Remover](https://easybgremover.com/): diseña fondos transparentes en cuestión de segundos. Easy BG Remover combina recortes con IA, controles de cambio de tamaño y ajustes preestablecidos de exportación.
 - [Herramienta de Creación de Gráficos ](https://achartmaker.com/) - Herramienta de Creación de Gráficos permite generar y admite gráficos circulares, diagramas de flujo, gráficos de barras, gráficos de líneas, gráficos de dispersión, gráficos jerárquicos (árbol), gráficos de nutrición y más tipos de gráficos..
+- [Grow a Chicken Fighter](https://growachickenfighter.codes/) - Códigos, guías, consejos y recursos del juego Grow a Chicken Fighter.
 - [Dino Kid](https://dinokid.wiki/) - Guías del juego Dino Kid, códigos, listas de niveles y recursos wiki.
 - [My Dino Park](https://mydinopark.org/) - Guías del juego My Dino Park, consejos y recursos.
 - [Image Stretcher](https://imagestretcher.com/) - Image Stretcher ofrece un redimensionamiento impulsado por IA que amplía los fondos, preserva los sujetos y prepara los recursos creativos para cada canal.

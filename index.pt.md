@@ -57,6 +57,7 @@ Bem-vindo ao Free AI Tools! Explore minha lista curada de IA cobrindo as melhore
 
 - [Easy BG Remover](https://easybgremover.com/) - Crie fundos transparentes prontos para design em segundos. O Easy BG Remover combina recortes de IA, controlos de redimensionamento e predefinições de exportação.
 - [Ferramenta de Criação de Gráficos](https://achartmaker.com/) - Ferramenta de Criação de Gráficos gera e oferece suporte a gráficos de pizza, diagramas de fluxo, gráficos de barras, gráficos de linhas, gráficos de dispersão, gráficos em árvore, gráficos de nutrição e mais tipos de gráficos.
+- [Grow a Chicken Fighter](https://growachickenfighter.codes/) - Códigos, guias, dicas e recursos do jogo Grow a Chicken Fighter.
 - [Dino Kid](https://dinokid.wiki/) - Guias do jogo Dino Kid, códigos, listas de tier e recursos wiki.
 - [My Dino Park](https://mydinopark.org/) - Guias do jogo My Dino Park, dicas e recursos.
 - [Image Stretcher](https://imagestretcher.com/) - O Image Stretcher oferece redimensionamento com tecnologia de IA que estende planos de fundo, preserva assuntos e prepara ativos criativos para todos os canais.
