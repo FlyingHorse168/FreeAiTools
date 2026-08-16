@@ -460,6 +460,7 @@ A curated list of AI image processing, generation, editing and enhancement tools
 
 - [RunwayML](https://runwayml.com/) - Magical AI tools, real-time collaboration, precise editing and more, next-generation content creation suite.
 - [Synthesia](https://www.synthesia.io/) - Generate videos from text in minutes.
+- [videos.social](https://videos.social/?utm_source=flyinghorse168-freeaitools&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blogs, PDFs, and prompts into editable faceless videos.
 - [Rephrase AI](https://www.rephrase.ai/) - Provide highly personalized videos at scale to improve engagement and business efficiency.
 - [Hour One](https://hourone.ai/) - Convert text to automated virtual host videos.
 - [D-ID](https://www.d-id.com/) - Create and interact with talking avatars with one click.
