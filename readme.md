@@ -268,6 +268,7 @@ Welcome to Free AI Tools! Explore my curated AI list covering top generative AI 
 - [co:here](https://cohere.ai/) - Service providing advanced large language models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - Framework for building NLP applications based on language models (like agents, semantic search, Q&A).
 - [Keploy](https://keploy.io/) - Open-source tool that converts user traffic into test cases and data stubs.
+- [Agent QA](https://github.com/vostride/agent-qa) - Natural-language QA for web and mobile apps via CLI and MCP. The current release is FSL source-available (not OSI open source); the package has no fee, while model, browser, or device providers may charge separately.
 - [LangChain](https://langchain.com/) - Framework for developing language model-driven applications.
 - [Portia AI](https://www.portialabs.ai/) - Open-source agent framework that can articulate planned actions in advance, share progress and support human intervention. [#opensource](https://github.com/portiaAI/portia-sdk-python)
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - Chatbot trained on large amounts of clean assistant data (including code, stories, conversations).
