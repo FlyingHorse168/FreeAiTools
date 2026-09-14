@@ -70,6 +70,7 @@ Welcome to Free AI Tools! Explore my curated AI list covering top generative AI 
 - [Eggy Car](https://eggycar.cc/) - Play Eggy Car Unblocked for free online. Drive carefully, maintain balance, and transport a fragile egg across challenging terrain without breaking it.
 - [Skills2](https://skills2.net/) - The best AI Skills directory to discover and share AI-powered skills and prompts.
 - [Electron Dash](https://theelectrondash.com/) - Play Electron Dash for free online. A fast-paced 3D endless runner set inside a glowing space tunnel with neon-lit obstacles and collapsing platforms.
+- [Dungeon Quest Wiki](https://dungeonquest.wiki/) - Dungeon Quest guides, codes, tier lists and wiki resources.
 - [Sinner Maker](https://sinnermaker.xyz/) - Play Sinner Maker free online. Create sinners, shape their faith, and manage a village where relationships become devotion, rivalry, or obsession.
 - [witchspire wiki](https://witchspire.games/) - Explore Witchspire guides, gameplay details, character information, and wiki-style resources for the game.
 - [Echoes of aincrad](https://echoesofaincrad.org) - Echoes of Aincrad Guide, News, Gameplay, Weapons and Media Hub.
