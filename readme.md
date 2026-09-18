@@ -159,6 +159,7 @@ Welcome to Free AI Tools! Explore my curated AI list covering top generative AI 
 - [DeepL Write](https://www.deepl.com/write) - AI writing tool to improve written communication.
 - [Headlinesai.pro](https://www.headlinesai.pro/) - Generate eye-catching, optimized headlines for content across YouTube, Medium, Indie Hackers and Reddit platforms.
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - Local LLM add-in for Microsoft Word, use local LLM in Word, fully local alternative to "Copilot in Word".
+- [Dom Frame](https://domframe.silentdirectivellc.com/?utm_source=freeaitools&utm_medium=resource-directory) - An AI texting coach: paste a conversation and get a read on it plus a reply you can actually send. Browser demo, also on iPhone.
 
 ### ChatGPT Extensions
 
