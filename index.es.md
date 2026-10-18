@@ -57,6 +57,7 @@
 
 - [Easy BG Remover](https://easybgremover.com/): diseña fondos transparentes en cuestión de segundos. Easy BG Remover combina recortes con IA, controles de cambio de tamaño y ajustes preestablecidos de exportación.
 - [Herramienta de Creación de Gráficos ](https://achartmaker.com/) - Herramienta de Creación de Gráficos permite generar y admite gráficos circulares, diagramas de flujo, gráficos de barras, gráficos de líneas, gráficos de dispersión, gráficos jerárquicos (árbol), gráficos de nutrición y más tipos de gráficos..
+- [pixel lineage wiki](https://robloxpixellineage.wiki/) - Roblox Pixel Lineage game guides, codes, tier lists and wiki resources.
 - [Grow a Chicken Fighter](https://growachickenfighter.codes/) - Códigos, guías, consejos y recursos del juego Grow a Chicken Fighter.
 - [steal an egg](https://stealaneggroblox.wiki/) - Guías del juego Steal an Egg, códigos, listas de niveles y recursos wiki.
 - [wonderland roblox](https://wonderlandroblox.codes/) - Guías del juego Wonderland Roblox, consejos y recursos.

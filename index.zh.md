@@ -57,6 +57,7 @@
 
 - [图片背景去除工具](https://easybgremover.com/)- 几秒钟内即可设计出透明背景。 Easy BG Remover 结合了 AI 剪切、调整大小控件和导出预设。
 - [图表制作工具](https://achartmaker.com/)- 图表制作工具可生成并支持饼图、流程图、柱状图、折线图、散点图、树状图、营养成分表及更多图表类型。
+- [pixel lineage wiki](https://robloxpixellineage.wiki/) - Roblox Pixel Lineage game guides, codes, tier lists and wiki resources.
 - [Grow a Chicken Fighter](https://growachickenfighter.codes/) - Grow a Chicken Fighter 游戏兑换码、攻略与资源。
 - [steal an egg](https://stealaneggroblox.wiki/) - Steal an Egg 游戏攻略、兑换码、层级排行与 wiki 资源。
 - [wonderland roblox](https://wonderlandroblox.codes/) - Wonderland Roblox 游戏攻略、技巧与资源。

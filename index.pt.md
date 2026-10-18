@@ -57,6 +57,7 @@ Bem-vindo ao Free AI Tools! Explore minha lista curada de IA cobrindo as melhore
 
 - [Easy BG Remover](https://easybgremover.com/) - Crie fundos transparentes prontos para design em segundos. O Easy BG Remover combina recortes de IA, controlos de redimensionamento e predefinições de exportação.
 - [Ferramenta de Criação de Gráficos](https://achartmaker.com/) - Ferramenta de Criação de Gráficos gera e oferece suporte a gráficos de pizza, diagramas de fluxo, gráficos de barras, gráficos de linhas, gráficos de dispersão, gráficos em árvore, gráficos de nutrição e mais tipos de gráficos.
+- [pixel lineage wiki](https://robloxpixellineage.wiki/) - Roblox Pixel Lineage game guides, codes, tier lists and wiki resources.
 - [Grow a Chicken Fighter](https://growachickenfighter.codes/) - Códigos, guias, dicas e recursos do jogo Grow a Chicken Fighter.
 - [steal an egg](https://stealaneggroblox.wiki/) - Guias do jogo Steal an Egg, códigos, listas de tier e recursos wiki.
 - [wonderland roblox](https://wonderlandroblox.codes/) - Guias do jogo Wonderland Roblox, dicas e recursos.
