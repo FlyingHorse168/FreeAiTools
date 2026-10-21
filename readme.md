@@ -76,6 +76,9 @@ Welcome to Free AI Tools! Explore my curated AI list covering top generative AI 
 - [Sinner Maker](https://sinnermaker.xyz/) - Play Sinner Maker free online. Create sinners, shape their faith, and manage a village where relationships become devotion, rivalry, or obsession.
 - [witchspire wiki](https://witchspire.games/) - Explore Witchspire guides, gameplay details, character information, and wiki-style resources for the game.
 - [PixGPT](https://pixgpt.io/) - AI Infographic Generator that transforms complex information into professional infographics with 21 layouts and 20 styles in one click.
+- [Wikis AI](https://wikis.ai) - Ask one question and compare answers from multiple top AI models side by side.
+- [VideoAI](https://videoai.ai) - Powerful AI video generator turning text and images into high-quality videos.
+- [Nextify AI](https://nextify.ai) - All-in-one AI advertising studio to generate video ads and UGC creatives.
 
 
 <a id="text"></a>
